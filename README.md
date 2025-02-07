@@ -1,6 +1,6 @@
 # SunriseHotel
 ER DİYAGRAMI
-![erdiagramı](https://github.com/user-attachments/assets/30ed1b9a-dc1f-42f5-8545-e7f689e1d13c) 
+(erdiagramı.jpg)
 UML DİYAGRAMI
 ![umldiagram](https://github.com/user-attachments/assets/ce9c6e74-f8e0-4907-82f0-1d4ff781f42d)
 USECASE DİYAGRAMI
