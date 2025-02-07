@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|c:\\yagmurcemreoyun\\sunrisehotel\\sunrisehotel\\ui\\musterilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\musterilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\musterilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\musterilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|c:\\yagmurcemreoyun\\sunrisehotel\\sunrisehotel\\ui\\rezervasyonlarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\rezervasyonlarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\rezervasyonlarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\rezervasyonlarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\rezervasyonlarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|c:\\yagmurcemreoyun\\sunrisehotel\\sunrisehotel\\ui\\odalarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\odalarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\odalarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\odalarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\odalarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\musterilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\musterilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:UI\\AnaSayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\GirisEkrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:UI\\GirisEkrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\girisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\girisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\business\\rezervasyonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,11 +43,11 @@
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:business\\musterimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|c:\\yagmurcemreoyun\\sunrisehotel\\sunrisehotel\\business\\kullanicimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\business\\kullanicimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:business\\kullanicimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\business\\hizmetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|c:\\yagmurcemreoyun\\sunrisehotel\\sunrisehotel\\business\\hizmetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:business\\hizmetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -91,7 +71,7 @@
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:dal\\hizmetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|c:\\yagmurcemreoyun\\sunrisehotel\\sunrisehotel\\dal\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\dal\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:dal\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -99,20 +79,44 @@
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:entities\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\entities\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:entities\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\entities\\oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:entities\\oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\entities\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:entities\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|c:\\yagmurcemreoyun\\sunrisehotel\\sunrisehotel\\entities\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\entities\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:entities\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\rezervasyonlarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\rezervasyonlarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|c:\\yagmurcemreoyun\\sunrisehotel\\sunrisehotel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\odalarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\odalarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\musterilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\musterilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\girisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|solutionrelative:ui\\girisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8CAB919-0FCA-4BCD-A564-323CB264F9EA}|SunriseHotel.csproj|C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ui\\girisekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,120 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RezervasyonlarPanel.cs",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\RezervasyonlarPanel.cs",
-              "RelativeDocumentMoniker": "UI\\RezervasyonlarPanel.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\RezervasyonlarPanel.cs",
-              "RelativeToolTip": "UI\\RezervasyonlarPanel.cs",
-              "ViewState": "AgIAAM4AAAAAAAAAAAAhwMIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T19:48:25.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OdalarPanel.cs",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\OdalarPanel.cs",
-              "RelativeDocumentMoniker": "UI\\OdalarPanel.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\OdalarPanel.cs",
-              "RelativeToolTip": "UI\\OdalarPanel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwEIAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T19:48:03.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MusterilerPanel.cs",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\MusterilerPanel.cs",
-              "RelativeDocumentMoniker": "UI\\MusterilerPanel.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\MusterilerPanel.cs",
-              "RelativeToolTip": "UI\\MusterilerPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T19:47:46.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AnaSayfa.cs",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\AnaSayfa.cs",
-              "RelativeDocumentMoniker": "UI\\AnaSayfa.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\AnaSayfa.cs",
-              "RelativeToolTip": "UI\\AnaSayfa.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAlwBwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T11:10:02.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HizmetlerPanel.cs [Design]",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs",
-              "RelativeDocumentMoniker": "UI\\HizmetlerPanel.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs [Design]",
-              "RelativeToolTip": "UI\\HizmetlerPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:14:07.277Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HizmetlerPanel.cs",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs",
-              "RelativeDocumentMoniker": "UI\\HizmetlerPanel.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs",
-              "RelativeToolTip": "UI\\HizmetlerPanel.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAowCcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:41:53.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MusterilerPanel.cs [Design]",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\MusterilerPanel.cs",
-              "RelativeDocumentMoniker": "UI\\MusterilerPanel.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\MusterilerPanel.cs [Design]",
-              "RelativeToolTip": "UI\\MusterilerPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:14:09.136Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AnaSayfa.cs [Design]",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\AnaSayfa.cs",
-              "RelativeDocumentMoniker": "UI\\AnaSayfa.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\AnaSayfa.cs [Design]",
-              "RelativeToolTip": "UI\\AnaSayfa.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:13:59.087Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RezervasyonlarPanel.cs [Design]",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\RezervasyonlarPanel.cs",
-              "RelativeDocumentMoniker": "UI\\RezervasyonlarPanel.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\RezervasyonlarPanel.cs [Design]",
-              "RelativeToolTip": "UI\\RezervasyonlarPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:14:14.983Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "GirisEkrani.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\GirisEkrani.cs",
               "RelativeDocumentMoniker": "UI\\GirisEkrani.cs",
@@ -269,30 +160,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OdalarPanel.cs [Design]",
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "UI\\AnaSayfa.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\AnaSayfa.cs",
+              "RelativeToolTip": "UI\\AnaSayfa.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:10:02.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HizmetlerPanel.cs [Design]",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs",
+              "RelativeDocumentMoniker": "UI\\HizmetlerPanel.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs [Design]",
+              "RelativeToolTip": "UI\\HizmetlerPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:14:07.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HizmetlerPanel.cs",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs",
+              "RelativeDocumentMoniker": "UI\\HizmetlerPanel.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\HizmetlerPanel.cs",
+              "RelativeToolTip": "UI\\HizmetlerPanel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAApwCcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:41:53.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusterilerPanel.cs",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\MusterilerPanel.cs",
+              "RelativeDocumentMoniker": "UI\\MusterilerPanel.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\MusterilerPanel.cs",
+              "RelativeToolTip": "UI\\MusterilerPanel.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAawAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:47:46.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OdalarPanel.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\OdalarPanel.cs",
               "RelativeDocumentMoniker": "UI\\OdalarPanel.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\OdalarPanel.cs [Design]",
-              "RelativeToolTip": "UI\\OdalarPanel.cs [Design]",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\OdalarPanel.cs",
+              "RelativeToolTip": "UI\\OdalarPanel.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAawEIAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:14:13.527Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-07T19:48:03.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GirisEkrani.cs [Design]",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\GirisEkrani.cs",
-              "RelativeDocumentMoniker": "UI\\GirisEkrani.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\GirisEkrani.cs [Design]",
-              "RelativeToolTip": "UI\\GirisEkrani.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "RezervasyonlarPanel.cs",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\RezervasyonlarPanel.cs",
+              "RelativeDocumentMoniker": "UI\\RezervasyonlarPanel.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\RezervasyonlarPanel.cs",
+              "RelativeToolTip": "UI\\RezervasyonlarPanel.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAjwMIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:14:03.587Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-07T19:48:25.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "RezervasyonManager.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\RezervasyonManager.cs",
               "RelativeDocumentMoniker": "BUSINESS\\RezervasyonManager.cs",
@@ -305,98 +249,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "OdaManager.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\OdaManager.cs",
               "RelativeDocumentMoniker": "BUSINESS\\OdaManager.cs",
               "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\OdaManager.cs",
               "RelativeToolTip": "BUSINESS\\OdaManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAawAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T15:15:10.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "MusteriManager.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\MusteriManager.cs",
               "RelativeDocumentMoniker": "BUSINESS\\MusteriManager.cs",
               "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\MusteriManager.cs",
               "RelativeToolTip": "BUSINESS\\MusteriManager.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T15:15:05.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "KullaniciManager.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\KullaniciManager.cs",
               "RelativeDocumentMoniker": "BUSINESS\\KullaniciManager.cs",
               "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\KullaniciManager.cs",
               "RelativeToolTip": "BUSINESS\\KullaniciManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T19:46:04.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
+              "Title": "HizmetManager.cs",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\HizmetManager.cs",
+              "RelativeDocumentMoniker": "BUSINESS\\HizmetManager.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\HizmetManager.cs",
+              "RelativeToolTip": "BUSINESS\\HizmetManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:14:58.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RezervasyonDAL.cs",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\RezervasyonDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\RezervasyonDAL.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\RezervasyonDAL.cs",
+              "RelativeToolTip": "DAL\\RezervasyonDAL.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:16:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "OdaDAL.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\OdaDAL.cs",
               "RelativeDocumentMoniker": "DAL\\OdaDAL.cs",
               "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\OdaDAL.cs",
               "RelativeToolTip": "DAL\\OdaDAL.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T15:16:07.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "MusteriDAL.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\MusteriDAL.cs",
               "RelativeDocumentMoniker": "DAL\\MusteriDAL.cs",
               "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\MusteriDAL.cs",
               "RelativeToolTip": "DAL\\MusteriDAL.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T15:15:48.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 15,
               "Title": "KullaniciDAL.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\KullaniciDAL.cs",
               "RelativeDocumentMoniker": "DAL\\KullaniciDAL.cs",
               "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\KullaniciDAL.cs",
               "RelativeToolTip": "DAL\\KullaniciDAL.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T15:15:44.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 16,
               "Title": "HizmetDAL.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\HizmetDAL.cs",
               "RelativeDocumentMoniker": "DAL\\HizmetDAL.cs",
               "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\HizmetDAL.cs",
               "RelativeToolTip": "DAL\\HizmetDAL.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T15:05:38.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 17,
               "Title": "Baglanti.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\Baglanti.cs",
               "RelativeDocumentMoniker": "DAL\\Baglanti.cs",
@@ -409,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 18,
               "Title": "Rezervasyon.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ENTITIES\\Rezervasyon.cs",
               "RelativeDocumentMoniker": "ENTITIES\\Rezervasyon.cs",
@@ -422,46 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Musteri.cs",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ENTITIES\\Musteri.cs",
-              "RelativeDocumentMoniker": "ENTITIES\\Musteri.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ENTITIES\\Musteri.cs",
-              "RelativeToolTip": "ENTITIES\\Musteri.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T15:00:41.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RezervasyonDAL.cs",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\RezervasyonDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\RezervasyonDAL.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\DAL\\RezervasyonDAL.cs",
-              "RelativeToolTip": "DAL\\RezervasyonDAL.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAhwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T15:16:06.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HizmetManager.cs",
-              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\HizmetManager.cs",
-              "RelativeDocumentMoniker": "BUSINESS\\HizmetManager.cs",
-              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\BUSINESS\\HizmetManager.cs",
-              "RelativeToolTip": "BUSINESS\\HizmetManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T15:14:58.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 19,
               "Title": "Oda.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ENTITIES\\Oda.cs",
               "RelativeDocumentMoniker": "ENTITIES\\Oda.cs",
@@ -474,7 +405,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 20,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ENTITIES\\Musteri.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Musteri.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ENTITIES\\Musteri.cs",
+              "RelativeToolTip": "ENTITIES\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:00:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Kullanici.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ENTITIES\\Kullanici.cs",
               "RelativeDocumentMoniker": "ENTITIES\\Kullanici.cs",
@@ -487,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 22,
               "Title": "Hizmet.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\ENTITIES\\Hizmet.cs",
               "RelativeDocumentMoniker": "ENTITIES\\Hizmet.cs",
@@ -499,16 +443,89 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AnaSayfa.cs [Design]",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "UI\\AnaSayfa.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\AnaSayfa.cs [Design]",
+              "RelativeToolTip": "UI\\AnaSayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:13:59.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OdalarPanel.cs [Design]",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\OdalarPanel.cs",
+              "RelativeDocumentMoniker": "UI\\OdalarPanel.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\OdalarPanel.cs [Design]",
+              "RelativeToolTip": "UI\\OdalarPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:14:13.527Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-07T20:02:32.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RezervasyonlarPanel.cs [Design]",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\RezervasyonlarPanel.cs",
+              "RelativeDocumentMoniker": "UI\\RezervasyonlarPanel.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\RezervasyonlarPanel.cs [Design]",
+              "RelativeToolTip": "UI\\RezervasyonlarPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:14:14.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MusterilerPanel.cs [Design]",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\MusterilerPanel.cs",
+              "RelativeDocumentMoniker": "UI\\MusterilerPanel.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\MusterilerPanel.cs [Design]",
+              "RelativeToolTip": "UI\\MusterilerPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:14:09.136Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "GirisEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\GirisEkrani.cs",
+              "RelativeDocumentMoniker": "UI\\GirisEkrani.cs",
+              "ToolTip": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\GirisEkrani.cs [Design]",
+              "RelativeToolTip": "UI\\GirisEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:14:03.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "GirisEkrani.Designer.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\UI\\GirisEkrani.Designer.cs",
               "RelativeDocumentMoniker": "UI\\GirisEkrani.Designer.cs",
@@ -521,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -533,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\yagmurcemreoyun\\SunriseHotel\\SunriseHotel\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
