@@ -28,4 +28,8 @@
 ## 📌 Hizmetler Sayfası  
 ![Hizmetler](images/hizmetler.jpg)
 
+## 📌 Proje Tanıtım Videosu  
+[![Proje Tanıtım Videosu](https://img.youtube.com/vi/-c6dZAh-woE/0.jpg)](https://youtu.be/-c6dZAh-woE)
+
+
 
