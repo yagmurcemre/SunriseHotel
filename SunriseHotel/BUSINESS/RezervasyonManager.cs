@@ -29,12 +29,12 @@ namespace SunriseHotel.BUSINESS
             if (rezervasyon.BaslangicTarihi < DateTime.Today)
                 throw new ArgumentException("Geçmiş tarihli rezervasyon yapılamaz.");
 
-            // Oda müsaitlik kontrolü
+           
             var musaitOdalar = _rezervasyonDal.OdaDoluluk(rezervasyon.BaslangicTarihi, rezervasyon.BitisTarihi);
             if (!musaitOdalar.Any(o => o.OdaID == rezervasyon.OdaID))
                 throw new ArgumentException("Seçilen oda bu tarihler için müsait değil.");
 
-            // Son tutar hesaplama
+            
             rezervasyon.SonFiyat = _rezervasyonDal.SonTutarHesapla(
                 rezervasyon.OdaID,
                 rezervasyon.HizmetID,
@@ -53,7 +53,7 @@ namespace SunriseHotel.BUSINESS
             if (rezervasyon.KisiSayisi <= 0)
                 throw new ArgumentException("Kişi sayısı 0'dan büyük olmalıdır.");
 
-            // Son tutar güncelleme
+           
             rezervasyon.SonFiyat = _rezervasyonDal.SonTutarHesapla(
                 rezervasyon.OdaID,
                 rezervasyon.HizmetID,

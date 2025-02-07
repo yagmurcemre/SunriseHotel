@@ -34,7 +34,7 @@ namespace SunriseHotel.UI
                 {
                     OdaNo = txtOdaNumara.Text,
                     OdaTuru = txtOdaTuru.Text,
-                    OdaDurumu = "Boş", // Varsayılan olarak "Boş" durumu atanabilir.
+                    OdaDurumu = "Boş", 
                     OdaFiyati = decimal.Parse(txtOdaFiyat.Text)
                 };
                 _odaManager.OdaEkle(oda);
@@ -64,7 +64,7 @@ namespace SunriseHotel.UI
                     OdaID = odaID,
                     OdaNo = txtOdaNumara.Text,
                     OdaTuru = txtOdaTuru.Text,
-                    OdaDurumu = dgOdalar.SelectedRows[0].Cells["OdaDurumu"].Value.ToString(), // Durumu değiştirilmesin.
+                    OdaDurumu = dgOdalar.SelectedRows[0].Cells["OdaDurumu"].Value.ToString(),
                     OdaFiyati = decimal.Parse(txtOdaFiyat.Text)
                 };
                 _odaManager.OdaGuncelle(oda);

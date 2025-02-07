@@ -31,12 +31,12 @@ namespace SunriseHotel.UI
             cmbMusteriler.DisplayMember = "MusteriAdSoyad";
             cmbMusteriler.ValueMember = "MusteriID";
 
-            // Odaları yükle
+            
             cmbOdalar.DataSource = _odaDal.OdaListele();
             cmbOdalar.DisplayMember = "OdaNo";
             cmbOdalar.ValueMember = "OdaID";
 
-            // Hizmetleri yükle
+           
             cmbHizmetler.DataSource = _hizmetDal.HizmetListele();
             cmbHizmetler.DisplayMember = "HizmetAd";
             cmbHizmetler.ValueMember = "HizmetID";
@@ -47,7 +47,7 @@ namespace SunriseHotel.UI
             dgRezervasyonlar.Rows.Clear();
             dgRezervasyonlar.Columns.Clear();
 
-            // Manuel sütun tanımlama
+            
             dgRezervasyonlar.Columns.Add("RezervasyonID", "Rezervasyon No");
             dgRezervasyonlar.Columns.Add("MusteriAdSoyad", "Müşteri Adı Soyadı");
             dgRezervasyonlar.Columns.Add("OdaNo", "Oda Numarası");
@@ -57,7 +57,7 @@ namespace SunriseHotel.UI
             dgRezervasyonlar.Columns.Add("KisiSayisi", "Kişi Sayısı");
             dgRezervasyonlar.Columns.Add("SonFiyat", "Toplam Tutar");
 
-            // Verileri DataGridView'e ekle
+            
             List<Rezervasyon> rezervasyonlar = _rezervasyonManager.RezervasyonListele();
             foreach (var rezervasyon in rezervasyonlar)
             {
@@ -82,7 +82,7 @@ namespace SunriseHotel.UI
                 );
             }
 
-            // DataGridView ayarları
+          
             dgRezervasyonlar.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgRezervasyonlar.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
         }
@@ -192,7 +192,7 @@ namespace SunriseHotel.UI
             {
                 int rezervasyonID = Convert.ToInt32(dgRezervasyonlar.SelectedRows[0].Cells["RezervasyonID"].Value);
 
-                // Müşteri bilgilerini çekmek için RezervasyonID'yi kullanın
+                
                 var rezervasyon = _rezervasyonManager.RezervasyonListele().FirstOrDefault(r => r.RezervasyonID == rezervasyonID);
                 if (rezervasyon != null)
                 {
@@ -217,10 +217,10 @@ namespace SunriseHotel.UI
                 DateTime bitis = dtpCikisTarihi.Value;
                 int kisiSayisi = Convert.ToInt32(nudKisiSayisi.Value);
 
-                // RezervasyonDal'daki SonTutarHesapla metodunu çağırıyoruz
+                
                 decimal toplamTutar = _rezervasyonManager.SonTutarHesapla(odaID, hizmetID, baslangic, bitis, kisiSayisi);
 
-                // Hesaplanan tutarı TextBox'a yazıyoruz
+                
                 txtToplamTutar.Text = toplamTutar.ToString("C2");
             }
             catch (Exception ex)

@@ -24,7 +24,7 @@ namespace SunriseHotel.UI
 
         private void btnGiris_Click(object sender, EventArgs e)
         {
-            if (txtKullaniciAdi.Text == "yagmurcemre" && txtSifre.Text == "1453") // Örnek giriş
+            if (txtKullaniciAdi.Text == "yagmurcemre" && txtSifre.Text == "1453") 
             {
                 this.Hide();
                 AnaSayfa anaSayfa = new AnaSayfa();
