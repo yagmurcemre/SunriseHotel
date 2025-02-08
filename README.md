@@ -1,5 +1,5 @@
 # SunriseHotel Projesi
-
+Bu proje, Sunrise Hotel adlı bir işletmenin rezervasyon sistemini içermektedir.
 
 ## 📌 Güncellenmiş Use Case Diyagramı  
 ![Güncellenmiş Use Case Diyagramı](images/usecaseson.png)
