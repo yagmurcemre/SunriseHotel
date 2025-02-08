@@ -1,8 +1,8 @@
 # SunriseHotel Projesi
 
 
-## 📌 Use Case Diyagramı  
-![Use Case Diyagramı](images/usecasediagram.jpg)
+## 📌 Güncellenmiş Use Case Diyagramı  
+![Güncellenmiş Use Case Diyagramı](images/usecaseson.png)
 
 ## 📌 UML Diyagramı  
 ![UML Diyagramı](images/umldiagram.png)
